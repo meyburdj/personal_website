@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: 'B612 Mono', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+
+.header {
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.nav-url {
+    color: #00FFFF;
+    display: inline;
+    padding-right: 5px;
+
+}
+
+
+
+.project-title {
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.project-information {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+    color: #919191;
+
+
+}
+
+.project-video {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-pic {
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: 'B612 Mono', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.about-me-information {
+
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+}
+
+.header {
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#nav {
+    align-content: center;
+}
+
+.nav-url {
+    color: #00FFFF;
+    display: inline;
+    padding-right: 5px;
+
+}
+
+
+.profile-pic {
+    text-align: center;
+
+}
